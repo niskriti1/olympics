@@ -14,7 +14,7 @@ This project explores the history and trends of the Olympic Games using SQL. By 
 
 - **SQL**  
 - **MySQL Workbench**  
-- **Olympics Dataset (Cleaned CSV)**  
+- **Olympics Datasets**  
 
 ## 📁 Project Structure
 
@@ -34,4 +34,4 @@ This project demonstrates the power of SQL in extracting insights from structure
 ## 📬 Contact
 
 **Niskriti Paudel**  
-** 🔗 https://www.linkedin.com/in/niskriti-paudel-31a861324/
+**🔗 https://www.linkedin.com/in/niskriti-paudel-31a861324/**

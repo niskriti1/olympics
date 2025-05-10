@@ -18,12 +18,13 @@ This project explores the history and trends of the Olympic Games using SQL. By 
 
 ## 📁 Project Structure
 
+```
 📦 olympics-sql-analysis/
 ├── olympics.sql # SQL queries
 ├──  olympics_history.csv
 ├──  olympics_history_noc_regions.csv
 └── README.md # Project overview
-
+```
 
 ## 📊 Outcome
 
